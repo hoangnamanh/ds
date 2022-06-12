@@ -2,3 +2,7 @@
 git init
 git add .
 git commit -m "them file A"
+#edit
+git remote add origin https://github.com/hoangnamanh/learning_git.git
+git config credential.helper store
+git push -u origin master
