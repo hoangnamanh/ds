@@ -7,5 +7,10 @@ git remote add origin https://github.com/hoangnamanh/learning_git.git
 git config credential.helper store
 git push -u origin master
 
+git push
+git clone -b master https://github.com/hoangnamanh/learning_git.git #bo -b thi clone nhanh mac dinh
+
 #neu hai nguoi commmit cung mot nhanh se bi loi conflict neu chua update code moi nhat
 #phai pull ve merge code local roi moi push tiep
+
+
